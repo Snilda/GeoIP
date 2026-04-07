@@ -1,2 +1,2 @@
-# GeoIP
-Russian ip subnets
+# Geo
+Remnawave
